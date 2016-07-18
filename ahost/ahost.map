@@ -1,0 +1,11 @@
+#test_tag another_tag
+mytest.a.exmaple.com  12
+
+#no_init_count
+mytest.b.exmaple.com
+
+#tag_group
+mytest.c.exmaple.com  6
+mytest.d.exmaple.com
+#additional_tag
+mytest.e.exmaple.com  8
